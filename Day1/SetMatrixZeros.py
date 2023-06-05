@@ -6,7 +6,7 @@ from os import *
 from typing import List
 
 def setZeros(matrix: List[List[int]]) -> None:
-	# Write your code here.
+	
         n=len(matrix)
         m=len(matrix[0])
         
